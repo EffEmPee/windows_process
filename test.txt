@@ -1,0 +1,16 @@
+module name: __mp_main__
+process id: 7740
+parent process: 13920
+
+----------------child process: 1232----------------
+
+
+----------------child of: 7740----------------
+
+execution n°1
+execution n°2
+execution n°3
+execution n°4
+execution n°5
+
+killing process 1232...
